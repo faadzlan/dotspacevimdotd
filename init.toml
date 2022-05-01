@@ -44,7 +44,7 @@
     statusline_unicode_symbols = true
 
     bootstrap_before = 'myspacevim#before'
-    bootstrap_after = 'myspacevim#after' 
+    bootstrap_after = 'myspacevim#after'
 
 # Enable autocomplete layer
 [[layers]]
